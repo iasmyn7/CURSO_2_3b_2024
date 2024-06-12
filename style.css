@@ -1,16 +1,30 @@
+
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 
+<<<<<<< HEAD
+}
+=======
+>>>>>>> 0266269c15d280b68758d46b97718c51914b82c7
 :root{
     --branco: white;
     --cor-de-fundo: #00162E;
     --fundo-senha: #00244D;
     --fundo-texto: #001E40;
     --borda: #0075FF;
+<<<<<<< HEAD
+    --roboto:"Roboto", sans-serif;
+    --roboto-mono:monospace;
+}
+=======
+>>>>>>> 0266269c15d280b68758d46b97718c51914b82c7
 
+<<<<<<< HEAD
+=======
     -- Roboto:"Roboto", sans-serif;
     -- Roboto-mono "Roboto mono" monospace
 }
     
+>>>>>>> 0266269c15d280b68758d46b97718c51914b82c7
 
 body{
     color: var(--branco);
@@ -27,6 +41,19 @@ body{
     font-size: 24px;
 }
 
+<<<<<<< HEAD
+.parametro{
+    background-color: var(--fundo-texto);
+    border: 2px solid var(--borda);
+    margin-top: 32px;
+    padding: 24px;
+}
+.parametro-titulo{
+    font-family: var(--roboto-mono);
+    font-size: 28px;
+}
+
+=======
 .parametro{
     background-color: var(--fundo-texto);
     border: 2px solid var(--borda);
@@ -38,3 +65,5 @@ body{
     font-family: var(--roboto-mono);
     font-size: 28px;
 }
+
+>>>>>>> 0266269c15d280b68758d46b97718c51914b82c7
