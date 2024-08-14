@@ -122,9 +122,19 @@ body {
     border-bottom: 2px solid var(--borda);
     margin: 0px;   
 }
+
+
 label {
 font-size: 20px;
 }
+
+.barra {
+    background-color: var(--fundo-senha);
+    height: 30px;
+    width: 100%;
+    border: 1px solid var(--borda);
+}
+
 @media screen and (min-width:768px) {
     /* se a largura for maior do que 768*/
 
